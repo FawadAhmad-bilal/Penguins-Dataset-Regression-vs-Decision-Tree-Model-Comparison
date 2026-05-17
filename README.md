@@ -69,6 +69,3 @@ The models were compared based on prediction accuracy and error metrics to evalu
 1. Clone the repository
 2. Open the Jupyter Notebook
 3. Run all cells step by step
-
-```bash
-git clone https://github.com/your-username/penguins-ml-project.git
